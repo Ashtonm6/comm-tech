@@ -1,0 +1,66 @@
+/* CSS styles */
+body {
+  font-family: monospace;
+  background-image: url();
+  background-color: rgb(150, 150, 150);
+}
+#heading {
+  background-color: rgb(255, 255, 255);
+  background-image: url(https://cdn.glitch.me/f9655b51-3fcc-418b-81ca-8884b27a5702%2Fsnowflake.png?v=1633367731694);
+}
+p {
+  font-size: 16px;
+  color: rgb(, );
+  align-self: center;
+  margin-left: 10%;
+  margin-right: 10%
+  
+    
+}
+h4 {
+  color: rgb(0, 170, 2250);
+}
+#navigation {
+  width: 100%;
+  font-size: 15.5px;
+  text-background: rgb(255, 255, 255);
+  position: relative;
+  text-align: center;
+  word-spacing: 10px;
+}
+#panorama-title {
+  width: 100%;
+  text-align: center;
+}
+h2 {
+  color: rgb(0, 102, 153);
+}
+#extra-pages {
+  text-align: center;
+}
+#external-website {
+  text-align: center;
+}
+#left_block {
+  float: left;
+  text-align: center;
+  width: 40%;
+  position: relative;
+  left: 5%;
+}
+#right_block {
+  float: right;
+  text-align: center;
+  width: 40%;
+  position: relative;
+  right: 5%;
+}
+#trails {
+  float: left;
+}
+#what-to-do {
+}
+#housing-paragraph {
+}
+#location {
+}
